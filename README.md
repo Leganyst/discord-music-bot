@@ -1,6 +1,6 @@
 # VK Music Bot for Discord
 
-VK Music Bot is a Discord bot that allows you to play music from VKontakte (VK) through your own VK account. You can search for songs by name or URL and play them in a voice channel. VK Music Bot also supports pausing and resuming the playback.
+VK Music Bot is a Discord bot that allows you to play music from VKontakte (VK) through your own VK account. You can search for songs by name or URL and play them in a voice channel. 
 
 ## Features
 
